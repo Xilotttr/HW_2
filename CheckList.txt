@@ -1,0 +1,15 @@
+[D[D[D[D[D[D[DRegistration :
+	Email
+	Social network
+	Validation
+Authrisation[D[D[D[D[D[D[D[Dorisation :
+	User activated
+	User not activated
+	Reset password
+	Validation
+Profile :
+	Change name
+	Change Email
+	Change password
+	Validation
+	Subscription

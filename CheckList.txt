@@ -1,8 +1,8 @@
-[D[D[D[D[D[D[DRegistration :
+Registration :
 	Email
 	Social network
 	Validation
-Authrisation[D[D[D[D[D[D[D[Dorisation :
+Authrisation :
 	User activated
 	User not activated
 	Reset password
